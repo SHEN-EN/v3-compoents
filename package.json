@@ -1,0 +1,18 @@
+{
+  "name": "@account/components",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@account/components": "workspace:^1.0.0",
+    "@account/directives": "workspace:^1.0.0",
+    "@account/hooks": "workspace:^1.0.0",
+    "@account/util": "workspace:^1.0.0",
+    "account": "^1.0.0"
+  }
+}
